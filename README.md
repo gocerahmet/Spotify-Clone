@@ -1,2 +1,2 @@
-Spotify Clone Frontend work developed with Swift UI
+Spotify Clone developed with Swift UI
 
